@@ -1,0 +1,2 @@
+# MWC
+Minimalist Wayland Compositor
